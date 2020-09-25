@@ -1,0 +1,11 @@
+# Fluorescene Imaging Software (2017-11-16)
+
+Change Log
+(1) Remove andor/io camera module for more simple operations;
+(2) Remove z3 stage;
+(3) Split GCaMP and RFP images into two windows to display;
+(4) Add key operation to move mouse;
+(5) Modify window resize to fix the bug that resized window will give wrong zooming output;
+
+# 2017-11-18
+Successfully compile, need more test in the next experiments;

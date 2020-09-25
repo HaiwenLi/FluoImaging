@@ -1,0 +1,19 @@
+# remove folder generated bt QT
+[Gg]enerated[Ff]iles/
+[Dd]ebug/
+[Rr]elease/
+
+# remove obj files
+Worm_CV/*.o
+./*.o
+./*.pdb
+
+# remove temp files
+./*~
+config/*~
+cache_data/*~
+Worm_CV/*~
+
+# remove data
+image/
+video/
